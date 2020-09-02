@@ -1,0 +1,24 @@
+h1 {
+  color: #144c52;
+}
+h3 {
+  color: #144c52;
+}
+hr {
+  border-style: none ;
+  border-top-style: dotted;
+  border-color: #144c52;
+  border-width: 7px;
+  width:8%;
+}
+label{
+  color: #144c52;
+}
+li{
+  color: #144c52;
+}
+p {
+  color: #144c52;
+}
+table{
+    color: #144c52;
